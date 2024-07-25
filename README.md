@@ -4,7 +4,7 @@ This repository contains the source code for my Bachelor's thesis written in Ita
 
 <p align="center">
     <a href="https://github.com/HDStef/bachelors-thesis/blob/main/pdf/tesi_alberghini_stefano.pdf" title="Previsione dele frodi finanziarie: Un confronto empirico tra alberi di classificazione e reti neurali">
-        <img src="https://github.com/HDStef/bachelors-thesis/blob/main/frontpage.png" width="400" alt="Previsione dele frodi finanziarie: Un confronto empirico tra alberi di classificazione e reti neurali" title="Previsione dele frodi finanziarie: Un confronto empirico tra alberi di classificazione e reti neurali" />
+        <img src="https://github.com/HDStef/bachelors-thesis/blob/main/thesis_frontpage.png" width="400" alt="Previsione dele frodi finanziarie: Un confronto empirico tra alberi di classificazione e reti neurali" title="Previsione dele frodi finanziarie: Un confronto empirico tra alberi di classificazione e reti neurali" />
     </a>
 </p>
 
